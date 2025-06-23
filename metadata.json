@@ -1,0 +1,6 @@
+{
+  "name": "ProInvoice Suite - Client-Side Invoice Generator",
+  "description": "A comprehensive, client-side web application for managing company profiles, clients, stock items, and generating professional invoices with PDF download and QR code payments. All data is stored locally in your browser.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
